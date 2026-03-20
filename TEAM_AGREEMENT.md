@@ -6,8 +6,8 @@ Este documento establece las reglas de convivencia, comunicación y estándares 
 | Nombre | Rol | Usuario de GitHub |
 | :--- | :--- | :--- |
 | [Nombre del Aprendiz 1] | Líder (Arquitecto) | `@usuario1` |
-| [Nombre del Aprendiz 2] | Desarrollador | `@usuario2` |
 | [Deivy Yesid Acosta] | Desarrollador | `@DeivyAcosta1523-pixel` |
+| [Haziel Josue Solano] | Desarrollador | `@josuesolano21` |
 
 ## 2. Canales de Comunicación
 Para mantener el orden y separar lo profesional de lo personal, usaremos los siguientes canales:
